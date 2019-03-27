@@ -65,8 +65,6 @@ CREATE TABLE IF NOT EXISTS `task` (
 
 INSERT INTO `task` (`id`, `date`, `name`, `id_membre`) VALUES
 (71, '2019-03-27 08:09:55', 'njusreihhr,egret', 2),
-(70, '2019-03-27 08:07:57', 'zaegrht', 1),
-(72, '2019-03-27 10:06:01', 'zegyreh', 1),
 (73, '2019-03-27 10:06:06', 'zegyreh', 2);
 COMMIT;
 
